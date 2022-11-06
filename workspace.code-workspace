@@ -1,0 +1,12 @@
+{
+  "folders": [
+	{
+		"path": "../leds"
+	},
+	{
+		"name": "Nanoleaf",
+		"path": "."
+	}
+],
+  "settings": {}
+}
