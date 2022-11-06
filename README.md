@@ -1,3 +1,3 @@
 # nanoleaf
 
-Arduino code the control my DIY nanoleaf lights in my bedroom.
+Arduino code to control my DIY nanoleaf lights in my bedroom.
